@@ -9,7 +9,7 @@
     , "yui3"
     , "test"
     ]
-, "version" : "0.1.5"
+, "version" : "0.1.6"
 , "author" : "Reid Burke <me@reidburke.com> (http://reidburke.com)"
 , "contributors" :
     [ "Dav Glass <davglass@gmail.com>"
@@ -36,8 +36,11 @@
     { "express" : "=1.0.6"
     , "connect" : "=0.5.0" 
     , "jade" : "=0.5.7"
+<<<<<<< HEAD
     , "optparse" : "=1.0.0"
 
+=======
+>>>>>>> Version 0.1.6. Include optparse locally.
     }
 , "licenses" :
   [ { "type" : "BSD"
