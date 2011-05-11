@@ -1,6 +1,29 @@
 A Brief History of Yeti
 =======================
 
+0.1.7 / 2011-05-03
+------------------
+
+  * Updated to latest Express and Connect.
+  * Tested with npm 1.0.
+  * Use nopt instead of optparse.
+
+0.1.6 / 2011-03-29
+------------------
+
+  * Replaced optparse with built-in copy of optparse, since it isn't available on npm.
+
+0.1.5 / 2011-03-29
+------------------
+
+  * Replaced optimist with optparse for CLI option parsing.
+    Optimist didn't work with recent npm versions.
+
+0.1.4 / 2011-02-05
+------------------
+
+  * Fix for changed Node v0.3 HTTP API.
+
 0.1.3 / 2010-12-08
 ------------------
 
